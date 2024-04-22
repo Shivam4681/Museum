@@ -13,15 +13,15 @@
 
 3)Query Analysis: A series of SQL queries are executed to extract meaningful insights from the dataset. These queries cover a variety of analytical tasks, 
 including:
-•Retrieving the full names of artists along with the names of the museums where their works are displayed.
-•Determining the number of works by each artist in the database and ordering them by count.
-•Identifying the top museums with the highest number of works displayed.
-•Displaying details of works, including names, styles, and corresponding museum names, ordered by museum name.
-•Calculating the total sale price for each artist's works and ordering them by total sale price.
-•Listing artists who have more than three works in the database.
-•Retrieving works and their corresponding artists' full names for works with a sale price smaller than their regular price.
-•Calculating the average height and width of the artworks in the database.
-•Finding the maximum sale price among all works in each museum.
+•Retrieving the full names of artists along with the names of the museums where their works are displayed.<br>
+•Determining the number of works by each artist in the database and ordering them by count.<br>
+•Identifying the top museums with the highest number of works displayed.<br>
+•Displaying details of works, including names, styles, and corresponding museum names, ordered by museum name.<br>
+•Calculating the total sale price for each artist's works and ordering them by total sale price.<br>
+•Listing artists who have more than three works in the database.<br>
+•Retrieving works and their corresponding artists' full names for works with a sale price smaller than their regular price.<br>
+•Calculating the average height and width of the artworks in the database.<br>
+•Finding the maximum sale price among all works in each museum.<br>
 •Concatenating the full name, and nationality of artists along with the count of their works, ordered by the count.
 
 ➣ Data Sources: from Kaggle.
