@@ -13,16 +13,16 @@
 
 3)Query Analysis: A series of SQL queries are executed to extract meaningful insights from the dataset. These queries cover a variety of analytical tasks, 
 including:
-•Retrieving the full names of artists along with the names of the museums where their works are displayed.<br>
-•Determining the number of works by each artist in the database and ordering them by count.<br>
-•Identifying the top museums with the highest number of works displayed.<br>
-•Displaying details of works, including names, styles, and corresponding museum names, ordered by museum name.<br>
-•Calculating the total sale price for each artist's works and ordering them by total sale price.<br>
-•Listing artists who have more than three works in the database.<br>
-•Retrieving works and their corresponding artists' full names for works with a sale price smaller than their regular price.<br>
-•Calculating the average height and width of the artworks in the database.<br>
-•Finding the maximum sale price among all works in each museum.<br>
-•Concatenating the full name, and nationality of artists along with the count of their works, ordered by the count.
+• Retrieving the full names of artists along with the names of the museums where their works are displayed.<br>
+• How many works does each artist have in the database? Display the artist's full name along with the count of their works, ordered by the count in descending order.<br>
+• List the top 5 museums with the highest number of works displayed in the database, along with their respective counts.<br>
+• Display the names and styles of the works along with the corresponding museum names, ordered by the museum name in ascending order. Limit the results to 10.<br>
+• Show the total sale price for each artist's works. Display the artist's full name along with the total sale price, ordered by the total sale price in descending order.<br>
+• List artists who have more than 3 works in the database, along with the count of their works.<br>
+• Retrieving works and their corresponding artists' full names for works with a sale price smaller than their regular price.<br>
+• Calculating the average height and width of the artworks in the database.<br>
+• Finding the maximum sale price among all works in each museum.<br>
+• Concatenating the full name, and nationality of artists along with the count of their works, ordered by the count.
 
 ➣ Data Sources: from Kaggle.
 
