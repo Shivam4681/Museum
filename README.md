@@ -1,46 +1,34 @@
-<h1 align="center">Museume Data Analysis Project</h1>
+<h1 align="center">Museume SQL Project</h1>
 <p align="center">
 <img src="https://khanhpham1989.github.io/eProject-group7/IMG/pic/1.png">
 
 
-➣ Description:<p>This project is a comprehensive analysis of COVID-19 data utilizing Python programming language and its data science libraries. Through Jupyter Notebook, I've explored various aspects of the pandemic, including tracking the spread of the virus, analyzing its impact on different regions, and visualizing trends over time. The aim of this project is to provide insights into the dynamics of the pandemic and aid in understanding its patterns and implications.</p>
+➣ Description:<p>This SQL project is designed to analyze data related to museums, artists, and artworks. The dataset used for this project was sourced from Kaggle three main tables: artist, work, and museum.</p>
 
 
-➣ Theory: <br> 
-•Programming Language: Python <br> 
-•Libraries Used: <br> 
-           1) Pandas: For data manipulation and analysis. <br> 
-           2) Matplotlib: For data visualization and creating plots. <br> 
-           3) Seaborn: For statistical data visualization. 
+➣ Project Structure :
+1)Database Schema: The project begins with the creation of a suitable database schema to organize the data effectively. Three tables are created: artist, work, and museum, each with appropriate fields to store information about artists, their works, and the museums where the works are displayed.
 
+2)Data Population: After defining the schema, the tables are populated with data extracted from the Kaggle dataset. This step ensures that the database contains relevant information for subsequent analysis.
 
-➣ Data Sources: COVID-19 datasets from Kaggle.
+3)Query Analysis: A series of SQL queries are executed to extract meaningful insights from the dataset. These queries cover a variety of analytical tasks, 
+including:
+•Retrieving the full names of artists along with the names of the museums where their works are displayed.
+•Determining the number of works by each artist in the database and ordering them by count.
+•Identifying the top museums with the highest number of works displayed.
+•Displaying details of works, including names, styles, and corresponding museum names, ordered by museum name.
+•Calculating the total sale price for each artist's works and ordering them by total sale price.
+•Listing artists who have more than three works in the database.
+•Retrieving works and their corresponding artists' full names for works with a sale price smaller than their regular price.
+•Calculating the average height and width of the artworks in the database.
+•Finding the maximum sale price among all works in each museum.
+•Concatenating the full name, and nationality of artists along with the count of their works, ordered by the count.
 
-
-➣ Analysis Techniques: <br> 
-•Understanding The Data: import necessary libraries, Load the COVID-19 dataset, Display basic information about the dataset. <br> 
-•Data Cleaning: Handling missing values, data formatting, and filtering. <br> 
-•Descriptive Statistics: Generate descriptive statistics (mean, median, min, max) for numeric columns, Explore summary statistics for categorical columns. <br> 
-•Time Series Analysis: Analyze the trends in confirmed, deaths, and recovered cases over time, Create time-based visualizations. <br> 
-•Geospatial Analysis: Analyze the distribution of cases across different countries/regions, Create geographical visualizations. <br> 
-•Correlation Analysis: Correlation analysis between confirmed,deaths and recovered, Plot correlation on heat map. <br> 
-•Advanced Analysis: Calculate the total number of confirmed cases, deaths, and recoveries for each country/region, Identify the countries/regions with the highest •
-•number of confirmed cases, deaths, and recoveries, Visualize the distribution of deaths using bar chart. <br> 
-
- 
-➣ Tools Used: <br> 
-•Jupyter Notebook: For interactive data analysis and documentation. <br> 
-•GitHub: For version control and collaborative development. 
+➣ Data Sources: from Kaggle.
 
 
 ➣ Usage: <br> 
-Clone the repository to our local machine using Git. <br> 
-Install the required libraries mentioned in the requirements.txt file. <br> 
-Open the Jupyter Notebook file (covid19_analysis.ipynb) using Jupyter Notebook or JupyterLab. <br> 
-Follow the instructions within the notebook to execute the code cells and visualize the analysis results. <br> 
-Feel free to explore, modify, or extend the project as per your requirements. <br> 
+You can use this project as a reference for SQL-based analysis of museum-related datasets. The provided queries can be modified or extended to suit specific analytical requirements. By exploring the SQL queries and their results, you can gain insights into various aspects of the museum domain, including artist contributions, artwork popularity, museum performance, and more.
 
-
-➣ Contributions: <br> 
-Contributions to this project are welcome. If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub. <br> 
+Feel free to fork this repository, adapt it to your own datasets, or contribute additional queries to further enhance its analytical capabilities. <br> 
 
