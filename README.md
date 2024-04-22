@@ -6,7 +6,7 @@
 ➣ Description:<p>This SQL project is designed to analyze data related to museums, artists, and artworks. The dataset used for this project was sourced from Kaggle three main tables: artist, work, and museum.</p>
 
 
-➣ Project Structure :
+➣ Project Structure :<br>
 1)Database Schema: The project begins with the creation of a suitable database schema to organize the data effectively. Three tables are created: artist, work, and museum, each with appropriate fields to store information about artists, their works, and the museums where the works are displayed.
 
 2)Data Population: After defining the schema, the tables are populated with data extracted from the Kaggle dataset. This step ensures that the database contains relevant information for subsequent analysis.
