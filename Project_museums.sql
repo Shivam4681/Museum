@@ -12,22 +12,6 @@ select * from canvas_size;
 select * from artist;
 select * from product_size;
 
-create table image_link
-(work_id int,
-url varchar(500),
-thumbnail_small_url varchar (500),
-thumbnail_large_url varchar(500));
-
-load data infile "C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\image_link.csv"
-into table image_link
-fields terminated by ','
-enclosed by '"'
-lines terminated by '\r\n'
-ignore 1 rows;
-
-
-
-
 
 
 -- Joining Tables:
