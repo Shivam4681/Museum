@@ -59,7 +59,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q1 output.png">
-
+<br>
+<br>
 2. 
 
    ![Image](images/q2.png)
@@ -67,7 +68,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q2 output.png">
-   
+<br>
+<br> 
 3. 
 
    ![Image](images/q3.png)
@@ -75,7 +77,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q3 output.png">
-
+<br>
+<br>
 4.
 
    ![Image](images/q4.png)
@@ -83,7 +86,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q4 output.png">
-
+<br>
+<br>
 5.
  
    ![Image](images/q5.png)
@@ -91,7 +95,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q5 output.png">
-   
+<br>
+<br>   
 6.
  
    ![Image](images/q6.png)
@@ -99,7 +104,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q6 output.png">
-
+<br>
+<br>
 7.
 
    ![Image](images/q7.png)
@@ -107,7 +113,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q7 output.png">
-
+<br>
+<br>
 8.
 
    ![Image](images/q8.png)
@@ -115,7 +122,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q8 output.png">
-
+<br>
+<br>
 9.
 
    ![Image](images/q9.png)
@@ -123,7 +131,8 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q9 output.png">
-
+<br>
+<br>
 10.
 
    ![Image](images/q10.png)
