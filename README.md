@@ -41,23 +41,17 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 </p>
 
 
-2. Create a table named `Olympics` to store the dataset.
+2. Create a table named `Museum` to store the dataset.
    
 <p>
 <img src="images/Table.png" width="200" height="300">
 </p>
 
 
-3. Load Data from CSV file
-
-<p>
-<img src="images/File.png" width="650" height="300">
-</p>
-
 
 ## Queries and Analysis
 
-1. **Show how many medal counts present for entire data.**
+1. 
 
    ![Image](images/q1.png)
    
@@ -65,7 +59,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q1 output.png">
 
-2. **Show count of unique sports present in Olympics.**
+2. 
 
    ![Image](images/q2.png)
    
@@ -73,7 +67,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q2 output.png">
    
-3. **Show how many different medals won by team India.**
+3. 
 
    ![Image](images/q3.png)
    
@@ -81,7 +75,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q3 output.png">
 
-4.**Show event wise medals won by India show from highest to lowest medals won in order.**
+4.
 
    ![Image](images/q4.png)
    
@@ -89,7 +83,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q4 output.png">
 
-5.**Show event wise medals won by India in order of year**
+5.
  
    ![Image](images/q5.png)
    
@@ -97,7 +91,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q5 output.png">
    
-6.**Show country who won maximum medals.**
+6.
  
    ![Image](images/q6.png)
     
@@ -105,7 +99,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q6 output.png">
 
-7.**show top 10 countries who won gold**
+7.
 
    ![Image](images/q7.png)
    
@@ -113,7 +107,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q7 output.png">
 
-8.**show in which year did United states won most gold medal**
+8.
 
    ![Image](images/q8.png)
    
@@ -121,7 +115,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q8 output.png">
 
-9.**In Witch sports United States has most medals.**
+9.
 
    ![Image](images/q9.png)
    
@@ -129,7 +123,7 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 
    <img src="images/q9 output.png">
 
-10.**Find top three players who won most medals along with their sports and country**
+10.
 
    ![Image](images/q10.png)
    
