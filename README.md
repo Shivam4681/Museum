@@ -32,3 +32,141 @@ You can use this project as a reference for SQL-based analysis of museum-related
 
 Feel free to fork this repository, adapt it to your own datasets, or contribute additional queries to further enhance its analytical capabilities. <br> 
 
+
+## Setup
+
+1. Create a MySQL database named `project_2`.
+<p>
+<img src="images/Create.png" width="180" height="130">
+</p>
+
+
+2. Create a table named `Olympics` to store the dataset.
+   
+<p>
+<img src="images/Table.png" width="200" height="300">
+</p>
+
+
+3. Load Data from CSV file
+
+<p>
+<img src="images/File.png" width="650" height="300">
+</p>
+
+
+## Queries and Analysis
+
+1. **Show how many medal counts present for entire data.**
+
+   ![Image](images/q1.png)
+   
+   Result⬇️
+
+   <img src="images/q1 output.png">
+
+2. **Show count of unique sports present in Olympics.**
+
+   ![Image](images/q2.png)
+   
+   Result⬇️
+
+   <img src="images/q2 output.png">
+   
+3. **Show how many different medals won by team India.**
+
+   ![Image](images/q3.png)
+   
+   Result⬇️
+
+   <img src="images/q3 output.png">
+
+4.**Show event wise medals won by India show from highest to lowest medals won in order.**
+
+   ![Image](images/q4.png)
+   
+   Result⬇️
+
+   <img src="images/q4 output.png">
+
+5.**Show event wise medals won by India in order of year**
+ 
+   ![Image](images/q5.png)
+   
+   Result⬇️
+
+   <img src="images/q5 output.png">
+   
+6.**Show country who won maximum medals.**
+ 
+   ![Image](images/q6.png)
+    
+   Result⬇️
+
+   <img src="images/q6 output.png">
+
+7.**show top 10 countries who won gold**
+
+   ![Image](images/q7.png)
+   
+   Result⬇️
+
+   <img src="images/q7 output.png">
+
+8.**show in which year did United states won most gold medal**
+
+   ![Image](images/q8.png)
+   
+   Result⬇️
+
+   <img src="images/q8 output.png">
+
+9.**In Witch sports United States has most medals.**
+
+   ![Image](images/q9.png)
+   
+   Result⬇️
+
+   <img src="images/q9 output.png">
+
+10.**Find top three players who won most medals along with their sports and country**
+
+   ![Image](images/q10.png)
+   
+   Result⬇️
+
+   <img src="images/q10 output.png">
+
+11.**Find player with most gold medals in cycling along with his country.**
+
+   ![Image](images/q11.png)
+   
+   Result⬇️
+
+   <img src="images/q11 output.png">
+
+12.**Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country**
+
+   ![Image](images/q12.png)
+   
+   Result⬇️
+
+   <img src="images/q12 output.png">
+
+13.**Find out the count of different medals of the top basketball player Teresa Edwards**
+
+   ![Image](images/q13.png)
+   
+   Result⬇️
+
+   <img src="images/q13 output.png">
+
+14.**Find out medals won by male, female each year  , Export this data and plot graph in excel.**
+
+   ![Image](images/q14.png)
+   
+   Result⬇️
+
+   <img src="images/q14 output.png">
+
+   <img src="images/Male.png">
