@@ -136,37 +136,3 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
    Result⬇️
 
    <img src="images/q10 output.png">
-
-11.**Find player with most gold medals in cycling along with his country.**
-
-   ![Image](images/q11.png)
-   
-   Result⬇️
-
-   <img src="images/q11 output.png">
-
-12.**Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country**
-
-   ![Image](images/q12.png)
-   
-   Result⬇️
-
-   <img src="images/q12 output.png">
-
-13.**Find out the count of different medals of the top basketball player Teresa Edwards**
-
-   ![Image](images/q13.png)
-   
-   Result⬇️
-
-   <img src="images/q13 output.png">
-
-14.**Find out medals won by male, female each year  , Export this data and plot graph in excel.**
-
-   ![Image](images/q14.png)
-   
-   Result⬇️
-
-   <img src="images/q14 output.png">
-
-   <img src="images/Male.png">
