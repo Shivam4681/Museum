@@ -39,14 +39,15 @@ Feel free to fork this repository, adapt it to your own datasets, or contribute 
 <p>
 <img src="images/Create.png" width="180" height="130">
 </p>
-
-
+<br>
+<br>
 2. Create a table named `Museum` to store the dataset.
    
 <p>
 <img src="images/Table.png" width="200" height="300">
 </p>
-
+<br>
+<br>
 
 
 ## Queries and Analysis
