@@ -1,4 +1,4 @@
-<h1 align="center">Museume Data Analysis With SQL</h1>
+<h1 align="center">Museum Data Analysis With SQL</h1>
 <p align="center">
 <img src="https://khanhpham1989.github.io/eProject-group7/IMG/pic/1.png">
 
