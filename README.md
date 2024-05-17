@@ -12,7 +12,8 @@
 2)Data Population: After defining the schema, the tables are populated with data extracted from the Kaggle dataset. This step ensures that the database contains relevant information for subsequent analysis.
 
 3)Query Analysis: A series of SQL queries are executed to extract meaningful insights from the dataset. These queries cover a variety of analytical tasks, <br>
-including:<br>
+<br>
+Questions:<br>
 • Retrieving the full names of artists along with the names of the museums where their works are displayed.<br>
 • How many works does each artist have in the database? Display the artist's full name along with the count of their works, ordered by the count in descending order.<br>
 • List the top 5 museums with the highest number of works displayed in the database, along with their respective counts.<br>
