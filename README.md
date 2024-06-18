@@ -3,7 +3,8 @@
 <img src="https://khanhpham1989.github.io/eProject-group7/IMG/pic/1.png">
 
 
-## Description:<p>This SQL project is designed to analyze data related to museums, artists, and artworks. The dataset used for this project was sourced from Kaggle three main tables: artist, work, and museum.</p>
+## Description:
+<p>This SQL project is designed to analyze data related to museums, artists, and artworks. The dataset used for this project was sourced from Kaggle three main tables: artist, work, and museum.</p>
 
 ## Project Structure :<br>
 1)Database Schema: The project begins with the creation of a suitable database schema to organize the data effectively. Three tables are created: artist, work, and museum, each with appropriate fields to store information about artists, their works, and the museums where the works are displayed.
@@ -23,8 +24,6 @@
 • Calculating the average height and width of the artworks in the database.<br>
 • Finding the maximum sale price among all works in each museum.<br>
 • Concatenating the full name, and nationality of artists along with the count of their works, ordered by the count.
-
-## Data Sources: from Kaggle.
 
 
 ## Usage: <br> 
