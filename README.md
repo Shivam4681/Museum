@@ -3,17 +3,16 @@
 <img src="https://khanhpham1989.github.io/eProject-group7/IMG/pic/1.png">
 
 
-➣ Description:<p>This SQL project is designed to analyze data related to museums, artists, and artworks. The dataset used for this project was sourced from Kaggle three main tables: artist, work, and museum.</p>
+## Description:<p>This SQL project is designed to analyze data related to museums, artists, and artworks. The dataset used for this project was sourced from Kaggle three main tables: artist, work, and museum.</p>
 
-
-➣ Project Structure :<br>
+## Project Structure :<br>
 1)Database Schema: The project begins with the creation of a suitable database schema to organize the data effectively. Three tables are created: artist, work, and museum, each with appropriate fields to store information about artists, their works, and the museums where the works are displayed.
 
 2)Data Population: After defining the schema, the tables are populated with data extracted from the Kaggle dataset. This step ensures that the database contains relevant information for subsequent analysis.
 
 3)Query Analysis: A series of SQL queries are executed to extract meaningful insights from the dataset. These queries cover a variety of analytical tasks, <br>
 <br>
-Questions:<br>
+## Questions:<br>
 • Retrieving the full names of artists along with the names of the museums where their works are displayed.<br>
 • How many works does each artist have in the database? Display the artist's full name along with the count of their works, ordered by the count in descending order.<br>
 • List the top 5 museums with the highest number of works displayed in the database, along with their respective counts.<br>
@@ -25,10 +24,10 @@ Questions:<br>
 • Finding the maximum sale price among all works in each museum.<br>
 • Concatenating the full name, and nationality of artists along with the count of their works, ordered by the count.
 
-➣ Data Sources: from Kaggle.
+## Data Sources: from Kaggle.
 
 
-➣ Usage: <br> 
+## Usage: <br> 
 You can use this project as a reference for SQL-based analysis of museum-related datasets. The provided queries can be modified or extended to suit specific analytical requirements. By exploring the SQL queries and their results, you can gain insights into various aspects of the museum domain, including artist contributions, artwork popularity, museum performance, and more.
 
 Feel free to fork this repository, adapt it to your own datasets, or contribute additional queries to further enhance its analytical capabilities. <br> 
