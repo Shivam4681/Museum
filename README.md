@@ -24,12 +24,7 @@
 • Calculating the average height and width of the artworks in the database.<br>
 • Finding the maximum sale price among all works in each museum.<br>
 • Concatenating the full name, and nationality of artists along with the count of their works, ordered by the count.
-
-
-## Usage: <br> 
-You can use this project as a reference for SQL-based analysis of museum-related datasets. The provided queries can be modified or extended to suit specific analytical requirements. By exploring the SQL queries and their results, you can gain insights into various aspects of the museum domain, including artist contributions, artwork popularity, museum performance, and more.
-
-Feel free to fork this repository, adapt it to your own datasets, or contribute additional queries to further enhance its analytical capabilities. <br> 
+ 
 
 
 ## Setup
